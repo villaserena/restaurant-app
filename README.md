@@ -1,3 +1,5 @@
+Updated: July 29, 2025
+
 Set up:
 
 Install homebrew:

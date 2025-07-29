@@ -1,3 +1,5 @@
+Updated: July 29, 2025
+
 This is a short guide on how to generate and configure an SSH key with GitHub, adapted from the following [article](https://www.freecodecamp.org/news/git-ssh-how-to/). This will allow you to clone CircleCI private repos to your local environment.
 
 **Check for an existing SSH key**
