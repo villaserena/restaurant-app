@@ -1,4 +1,4 @@
-General Commands:
+Update Local:
 
 Check git status:
 `git status`
@@ -11,6 +11,7 @@ Fetch latest changes from remote:
 
 Pull latest changes from remote:
 `git pull`
+
 
 Local Development:
 
