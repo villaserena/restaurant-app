@@ -1,19 +1,19 @@
-Update Local:
+Someone made updates to remote! Here's how to update local so you have the most up to date changes:
 
-Check git status:
-`git status`
-
-Checkout master branch:
+Ensure you are on master branch:
 `git checkout master`
 
-Fetch latest changes from remote:
+Download latest changes from remote:
 `git fetch`
 
-Pull latest changes from remote:
+Update local to reflect latest changes from remote:
 `git pull`
 
+Confirm changes have been made:
+`git status`
 
-Local Development:
+
+I want to make changes to remote! Here's how you do this on a new branch (remember, we never make updates to the master branch):
 
 Checkout new branch {branch_name}:
 `git checkout -b {branch-name}`
