@@ -4,16 +4,7 @@ This is a short guide on how to generate and configure an SSH key with GitHub, a
 
 **Check for an existing SSH key**
 
-Open terminal and enter the following command:
-
-$ ls -al ~/.ssh
-
-If you’ve already generated SSH keys, the output should be something along the lines of this:
-
-```
--rw-------  1 user_name user_name  1766 Jul  7  2018 id_rsa
--rw-r--r--  1 user_name user_name   414 Jul  7  2018 id_rsa.pub
--rw-------  1 user_name user_name 12892 Feb  5 18:39 known_hosts
+Open terminal and ente
 ```
 
 If the keys exist, head over to the **Copy your public SSH key** section.
