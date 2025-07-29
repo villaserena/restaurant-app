@@ -1,25 +1,24 @@
-Updated: July 29, 2025
+Updated: July 30, 2025
 
 This is a short guide on how to generate and configure an SSH key with GitHub, adapted from the following [article](https://www.freecodecamp.org/news/git-ssh-how-to/). This will allow you to clone CircleCI private repos to your local environment.
 
 **Check for an existing SSH key**
 
-Open terminal and enter the following command:
+Open terminal and enter the following c
 
 $ ls -al ~/.ssh
 
-If you’ve already generated SSH keys, the output should be something along the lines of this:
+If you’ve already generated SSH keys, the:
 
 ```
--rw-------  1 user_name user_name  1766 Jul  7  2018 id_rsa
--rw-r--r--  1 user_name user_name   414 Jul  7  2018 id_rsa.pub
+-rw-------  1 user_name user_namdjnjcn.sa.pub
 -rw-------  1 user_name user_name 12892 Feb  5 18:39 known_hosts
 ```
-
+ednjndlkqn.x 
 If the keys exist, head over to the **Copy your public SSH key** section.
 
 **Generate new SSH key**
-
+ckn.kn/ks nD 
 If you don’t see an output or the directory does not exist (you might get a No such file or directory message), then run the following command in terminal:
 
 $ mkdir $HOME/.ssh
