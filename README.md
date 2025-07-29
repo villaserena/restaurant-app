@@ -1,2 +1,22 @@
-Test
-Test 2 Test 3 Test 4 Test 5 Test 6
+Set up:
+
+Install homebrew:
+https://brew.sh/
+
+Install Node.js:
+brew install node
+
+Install git:
+brew install git
+
+Verify git installation:
+git --version
+
+Install Expo CLI:
+npm install -g expo-cli
+
+If you see permission errors, try:
+sudo npm install -g expo-cli
+
+Verify Expo CLI installation:
+expo --version
