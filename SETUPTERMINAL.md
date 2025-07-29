@@ -1,3 +1,5 @@
+Updated: July 29, 2025
+
 This is a short guide on how to set up Oh My Zsh, a delightful, open source, community-driven framework for managing your Zsh configuration! This tutorial is adapted from the following [article](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/). Oh My Zsh is especially useful for managing Git workflows in the CLI.
 
 **Install Homebrew**
