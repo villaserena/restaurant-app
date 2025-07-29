@@ -1,3 +1,5 @@
+#general commands#
+
 Check git status:
 `git status`
 
@@ -9,6 +11,8 @@ Fetch latest changes from remote:
 
 Pull latest changes from remote:
 `git pull`
+
+#local development#
 
 Checkout new branch {branch_name}:
 `git checkout -b {branch-name}`
