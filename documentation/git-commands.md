@@ -1,4 +1,4 @@
-## Someone made updates to remote! Here's how to update local so you have the most up to date changes:
+## Someone made updates to remote! Here's how to update local so you have the most up to date changes:
 
 Ensure you are on main branch:
 `git checkout main`
