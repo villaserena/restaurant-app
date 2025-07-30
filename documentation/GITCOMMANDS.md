@@ -61,5 +61,3 @@ Switch to another branch:
 
 Delete a local branch:
 `git branch -d <branch-name>`
-
-test
