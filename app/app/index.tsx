@@ -5,11 +5,11 @@ export default function Index() {
     <View
       style={{
         flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
+        justifyContent: "left",
+        alignItems: "left",
       }}
     >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>Hello! This is so awesome</Text>
     </View>
   );
 }
